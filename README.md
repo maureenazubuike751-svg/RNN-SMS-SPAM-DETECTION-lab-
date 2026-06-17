@@ -1,4 +1,4 @@
-# RNN-SMS-SPAM-DETECTION-lab-
+# rnn-sms-spam.ipynb
 Rnn sms spam detection 
 # RNN SMS Spam Detection
 
